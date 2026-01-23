@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="house-price-regression-analysis.jpg" alt=" House Price " width="600" hight="250"/>
+</p>
+
 [README.md](https://github.com/user-attachments/files/24827303/README.md)
 # House Prices Prediction: Advanced Regression Techniques
 
