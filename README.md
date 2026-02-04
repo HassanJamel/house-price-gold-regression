@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="house-price-regression-analysis.jpg" alt=" House Price " width="600" hight="250"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/house-prices-advanced-regression-techniques" target="_blank">
+    <img src="house-price-regression-analysis.jpg" alt="house price" width="500">
+  </a>
 </p>
-
 [README.md](https://github.com/user-attachments/files/24827303/README.md)
 # House Prices Prediction: Advanced Regression Techniques
 
