@@ -3,7 +3,6 @@
     <img src="house-price-regression-analysis.jpg" alt="house price" width="500">
   </a>
 </p>
-[README.md](https://github.com/user-attachments/files/24827303/README.md)
 # House Prices Prediction: Advanced Regression Techniques
 
 ## 📝 Project Description
@@ -16,13 +15,6 @@ This project aims to predict house prices (SalePrice) using the Ames Housing dat
 - **2026 Forecast**: Prices are expected to stabilize but maintain a slight growth trend (estimated 2-4% annual growth) in Q1 and Q2.
 - **Future Declines**: Potential interest rate hikes and increased housing supply could lead to localized price corrections in 2027.
 
-## 🛠️ Installation
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
 
 ## 🏆 Kaggle Requirements
 
